@@ -1,0 +1,132 @@
+body {
+  background: #f5f7fa;
+  font-family: "Montserrat", sans-serif;
+}
+.wrapper {
+  display: flex;
+  flex-direction: row-reverse;
+  width: 1200px;
+  height: 1319;
+  justify-content: center;
+  margin: 0 auto;
+  background: #ffffff;
+  box-shadow: 6px 6px 20px 0px rgba(0, 0, 0, 0.1);
+}
+
+.description {
+  background: #1e2939;
+  margin: 0;
+  color: white;
+  padding: 20px 0 0 0;
+}
+aside {
+  color: #000;
+  width: 370px;
+}
+.contactlinks {
+  color: #ffffff;
+  font-size: 14px;
+  font-style: normal;
+
+  line-height: 24px;
+}
+.zdjecie {
+  margin-top: 25px;
+}
+.header-secondary {
+  color: #ffffff;
+}
+.bold {
+  font-weight: 700;
+}
+.list-secondary {
+  color: orange;
+  font-size: 14px;
+  line-height: 24px;
+  margin-left: 0;
+  padding-left: 0;
+  list-style-position: inside;
+}
+.list-secondary-item {
+  color: white;
+}
+.contact-block {
+  margin-top: 51px;
+  margin-left: 40px;
+}
+.tech-block {
+  margin-top: 47px;
+  margin-left: 40px;
+}
+.soft-block {
+  margin-top: 51px;
+  margin-left: 40px;
+}
+main {
+  padding: 102px 88px 102px 88px;
+}
+.job-title {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+}
+h1 {
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 55px;
+}
+.main-description {
+  width: 400px;
+}
+.opis {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  margin-bottom: 40px;
+}
+.projekt {
+  width: 485px;
+  margin-bottom: 51px;
+}
+.list-primery {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000;
+  padding-left: 0;
+  list-style-position: inside;
+}
+.list-primery-item {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  text-decoration: none;
+}
+.header-projekt {
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 27px;
+}
+.header-projekt {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+}
+.job-data {
+  color: #a8a8a8;
+  line-height: 15px;
+  font-size: 12px;
+  font-weight: 400;
+}
+.list-primery-work {
+  color: #595959;
+
+  font-family: Montserrat;
+  font-size: 14px;
+
+  font-weight: 400;
+  line-height: 24px;
+  padding-left: 30px;
+}
